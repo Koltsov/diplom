@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest bc11a48de9fd89df59def8e070bcb7de?>
+<?validation-md5-digest 55c2a069f89a433c2ffeedb28cb75616?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>koltsov</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>9</revision>
+			<revision>10</revision>
 			<documentID>070C08AA-AA0B-4688-8872-690BAAB407D5</documentID>
-			<versionID>39DD3760-B019-4936-BDCD-E2E38720FF6A</versionID>
+			<versionID>37C55538-51DF-4D46-AE21-B8DBB606B73F</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -126,10 +126,10 @@
 		<region region-id="308" left="30" top="69" width="118.5" height="12.75" align-x="44.25" align-y="78" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931044" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220113236" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234930284" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115076" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -188,10 +188,10 @@
 		<region region-id="311" left="162" top="153" width="144" height="117" align-x="172.5" align-y="162" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931964" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115276" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234932324" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115596" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -269,10 +269,10 @@
 		<region region-id="313" left="342" top="273" width="42" height="12.75" align-x="357.75" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931884" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220114836" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234932284" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115356" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -294,10 +294,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234932324" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115596" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931644" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115396" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -322,10 +322,10 @@
 		<region region-id="315" left="30" top="339" width="58.5" height="12.75" align-x="44.25" align-y="348" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234932324" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220115596" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234930564" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220114756" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -350,10 +350,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931284" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220114636" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="234931884" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="1C6E8A73-7F00-435D-ACC5-6238CB6C9354" version-id="8242A290-227A-4C7B-AC9D-DC09B25A6811" branch-id="00000000-0000-0000-0000-000000000000" revision-num="220114836" is-modified="true" region-id="0" href="E:\Dropbox\универ\ДИПЛОМ\КОЛЬЦОВ 4010 кардио\111withValuesParsingFromBigFile.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3135,22 +3135,22 @@ RFhfK0Wx9hQUBA7LgBDIcmLwBLs7kYGLr225zaQCfQYc2hift6fMiQGTkP6on9r0xYi5vPkO
 w/rprAy9yEAn5Hd1fcjrPOjaZ1CIuTQVxiC3qUFRW0QxuBMNC8UJTs9D4xz3lEKMOC/2z9FT
 1qw6Aq7sA0SIxJUzMQrSmHTz2UdcLR2DRIbw34gYCyFiLISIsQzO/QHnAJXIgvVWAQAAAABJ
 RU5ErkJggg==</item>
-		<item item-id="35" content-encoding="gzip">H4sIAAAAAAAA/+xXTWhTQRCe9/LbNLFNf6KmtsYa60+r0oeCliLR1D+wRlLpVdvk0T5J+9r0
-FezJ4MEfqCAIIp7qRQ+ePOlRRQRRaD17UUTBg6cqiGDjzM729SWI1j9E2gmzP7PzzexO9u3O
-BgFAQe5BDoi2iqXbyut6AxBpyP6hTKr/lJ6xhATSyJ0ISrg072eAglu7/RB7Hi2CVcGrTT7A
-yqeFEkLbL/sVmloFkPUDuNRj0I7uWN9fyfBAUANUSFQiJsSGK1dowk8IcITmVZHs7dk/etjS
-hxRhO4jsdQpQE6qFql8fTesDhjnsEQM7CJ01MyxzC9lue73escGRfeZpXt4RZB8K0vaCu5FP
-IuacF+AN1u99ABbWu3w8HlU4iCqoYdGosT3ttay80T9u6Ty/DqClOKmmo7mkXzsftzqOW209
-x63OjltEu/oIB+pWcrwiqLtKNAuREkurxdKCGLKkOdRvUpB4oJoWiOIFCU2pE//+M7io87jI
-XuzTjItF0kbVVE5P5gx92BIYHHHJfSNLxM5Mh1/euBN9BWW0B3XnihXgdcgUG83TUWV/rkge
-mYrL9F/RF+Q5By/T0qI0mPizIAb7YRjrPEyUHwXfpQh47G+ezoKzsFNpDr8IXylAqPexJ+rU
-TbRFoh8uTit0Ct2XB0kSvZNfXZRjP+WbqAZUxbmexeIuKD/WWSz9iv8/Sb/jny9AvhnofqV7
-l8785bNgaZAHk6/XmN29jfN+CJTsDLtNnWpk0qpnmSabWTDE7qmSaJfEGA48ZXz3kGeLpTv0
-Mjt5RkU3ZrMx5EE8C3L4i0EXlgNYa0Lp+sEDgWvIOU4DgWr3oXfhqdlP8PTW3fGPf9F2JwmP
-Tz5pz8yEb16Cqfi05/l8NuQvi9W34gcKfWOq/LYwKQS8bEv4X5GYZZQTUUrDVYVT4R49b/Tl
-TnQZYyO5vomjZlZn/ZQANTBAbpY15W+ERvlGaOI3QuNaznmbUDfGb4SmdfxGiNG+aWZrMeE+
-kQJlPQsahfW4NLKBjdAObGEj8Y1spIWMbGJMi21ks8PIlgVsq8S2MbaVsFtZtdXGbnMMbncM
-Uv8rAAAA//8DAIAeTUZ8DQAA</item>
+		<item item-id="35" content-encoding="gzip">H4sIAAAAAAAA/+xXTWgTURCe3fw2TWzTn6iprWmM9adq6aKgpUg0rT9gjSTSq7bJ0q6k3Tbd
+gj0ZPKhIBUEQ8WK96MGTJz2qiCAKrWcvFVHw4EGKIIKNM2+2200QrX+ItBPm/cybb+a9ydv3
+5vkBQEJOI/tEW8bSaeRVtQGIFGTvUCbZf0rNGEICKeROBMUdivszQMGp3HmEPZcSwqrgViYf
+YuVRAnGh7TX7FYpcBZD1AjjkY9CO7ljfW8lwn18BVIhXIibAhitXKcJPAHCE5lWR6E13jx42
+1CFJ2PYju+0C1IRqoepVR1PqgKYPu8TATkJn9QzLnEK2x1qve2xwZL9+mpd3BNmDgpS14B7k
+k4g55wZ4g/V7D4CB9W4Pj4clDqIMclA0aixP+wwjr/WPGyrPrwNoKXaq6YiW9GsX4lbHcaut
+57jVWXELKVcf40Ddao5XCHXXiGYhVGJprViaH0OW0If6dQoSD1TTAlG8KKEpdeLffwYXdR4X
+2Yt9mnGxSNqomsypiZymDhsCgyMOc9+YJWJnpoOzN++GX0EZ7UXd+WIFuG0yyULzdGSzP18k
+j0zFFfqv6AvyvI1XaHlRCnT8GRCBbhjGOg8T5UfBdykELuubp7PgLOySosGXwSsFCPQ+cYXt
+urMfbjS3XZyW6BR6YB4kCfROflVRjv2Ub6IakCX7epaKuyD9WGep9Cv+/yT9jn++APlmoPuV
+7l0681fOguVBLky+XmN29zbG+8FXsjOsNnWqkUmrnmWK2cyCJnZPlYl2mBjNhqeM7z7yXLF0
+h15mJ8+p6MFsNoI8iGdBDn8R6MJyAGtFKF0/eMB3DTnHaSBQ7Tz0Ljg19wme3b43/vEv2u4k
+4fHJp+2ZmeCtSzAVm3a9WMiGvGWx+lb8QKJvTDa/LUwKAS/bEv5XJGYZ5kSU0nBZ4lQ4rea1
+vtyJLm1sJNc3cVTPqqyfFKAGBpibZV35G6HRfCM08RuhcT3nvE2oG+E3QlMzvxEitG+ibC0i
+3MeTIG1gQaOwHjONbGQjtANb2EhsExtpISObGdNiGdliM7J1EdtqYrcxtpWw21m11cLusA22
+2Qap/xUAAP//AwBeIyPUfA0AAA==</item>
 		<item item-id="36">iVBORw0KGgoAAAANSUhEUgAAAIUAAAFnCAYAAACIIYoBAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAssSURBVHhe7Z3LdeJKFACJioWjYeVU
 vHUe3jsMEnASkwFDSwILSXwkVbcvTdU5dd4w+OHRqKYR1kVsDiID/jSKzWajGVzLn0fx79+/
@@ -3995,22 +3995,22 @@ ohmjxWt/JBcsChj/AnQwuwIAeNRq6N9a4J/+UnTy+1SwAIArwWI6XeSV35OCRQGCBQA84+C8
 w4KXtH9Ax7Mstv8DZtYFANwhWADAPWfBYlr76dXfkYJFIWO0aOfhjmP+ny8A4Jr9787laowT
 4+Up+O+vb4doAUBNu9M+5t+Hh+P8FJHP224JAAAAIItgAQAAAMQRLAAAAIA4ggUAAAAQZhj+
 D5qEvdqaUQ7dAAAAAElFTkSuQmCC</item>
-		<item item-id="47" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCf3X5QoBXKR5Fica0FFfxigwcJ0WIhxkRsUgwnEwPtBtYsXShL
-IrfGkyaYmJh4xosePHkz8aLGmBiN4MGTHvTiP4AmxgTqzJtl2RKi+BVjYJp5H/PmN/Pe9O17
-84IAICEPIVeJtoyl1ypoWgsQqciBiWx69JKWtYQEMsi9CEp6VP9XgKJXvfcEez41glXRr849
-xqpCDSWFdsDuV6pyDUAuAODz9sMg9EEXumRMoJpNVAVVQKVkNeJCbLx6hyp8hQBHaG6VqeGh
-gakzljYhCftBZL9bgJpQK1QD2lRGG9PNvE8MdBM6Z2ZZ5hWy486a/dPjk6fMy7zEs8gVKMg4
-ix4ke2gnj/4eYv0G3XRjrYR4vEviQMogh0WjzvHUZ1kFfXTG0nh+PUBLcVNdT7ysX78auwaO
-XX0jx66hLHYR9dZTHGxo4phFUH+naBYjZdaaxfKCGLaUOTFqUqB4oJYWieI1CU2rF7fBSVyY
-iQs1sE+zLpVIG1XThpYydC1vCQyOeO39Y5eIXVwIv799P/oB1tEJ8MBKqRL8LpnkoHk6st1f
-KZFHptI2/Ve0jLzi4m3aWpQBE38WKDAAeawLMLv+KPguRcDnfPN0FlyBY1I8/DZ8swih4We+
-qFt38nRb9NO1BcmD7Uf2QZJC7+RXE+X0T/kmqgNZcq9ns7ir0o91Nku/4v9P0u/450sQgP4T
-uh3o7qUzf/ss2BrkwwSsAxO4jwneD1VlO8NpU6cWOY3cyLKY3cyBLnZPjY322Bjdhaes7wHy
-Uql8h95gJy+pGMSsVkEex7PAwJ8C/ViOYa0KJbVppPkossGpIFB94d1yaH7pC7y4+2rm81+0
-3UvC83PPu7KL4TvXYT6x4Hu9mg0F1sVqo/iBRN+YbH9bmBgCXrZl/K9IzDLKiSjlxrLE6fCQ
-VtBHjIv9+vSkMTJ7zsxprJ8WoBYG2Jtl10ZvhZj9Vmjlt0JsN+e9raiv8FuhdQ+/FRTaO3G2
-qIgpJNMg7WVBTHhI2Eba2Ajt1XY2ktjHRtrJyH7GtDtGDriMdKxhO23sQcZ2EvYQq3Y62MOu
-wSOuQep/AwAA//8DAEYrKgiIDQAA</item>
+		<item item-id="47" content-encoding="gzip">H4sIAAAAAAAA/+xXzU8TURCf3XZLgVYoH0XA4oIVFVRggwcJ0WLhYCI2KYaTiYF2A2tKF8qS
+yK3xZAwmJiae8aIHT9xMvKgxJkYiePCkB734DxATY0LrzJtl2RKi+BVjYJp5H/PmN/Pe9O17
+8wIAICGPIFeItoyl18rpejMQacj+qVRi/KqesoQEksj9CIp5NN9XgLxXe/gMe4oWxirv0xae
+YlWmBWNC22/3yzW5CiDtB1C8gzAMA9CDLhnjr2QTFQENUClWibggG6/cpwlfQcARmlt5fHRk
+aOa8pU9Jwn4A2ecWoCZUC1W/PpPUJwwzq4iBXkKnzRTLvEJ22lmzb3Zy+px5jZd4AbkMBUln
+0cNkD+1k0d9jrN+im16s1SCP90gcSBnkkGjUOJ4GLCtnjM9ZOs+vD2gpbqrpayvp127Ero5j
+V1vPsasriV1Yu/scB+saOGZh1N8vmvlwibVGsbwAhi1uTo2bFCgeqKZFonhTQtPqx21wFhdm
+4kIz2KdZF4ukjaqJjB7PGHrWEhgc8dr7xy4Ru7oS+nBvqekjbKEz4IFCsRx8LpnkoHk6st0v
+FMkjU3GP/itaRy64eI92FyXBxJ8FKgxBFusczG89Cr5LYVCcb57OgutwSmoLvQvdyUNw9IXS
+5NbtXl5q7bq5Inmw/cQ+SOLonfzqopz9Kd9ENSBL7vXsFHdD+rHOTulX/P9J+h3/fAkC0H9C
+twPdvXTm750Fu4MUTMA6MIH7FOX9UFGyM5w2daqRE8j1LIvYzTQYYvdU2WiPjTFceMr6HiGv
+FUt36G12skzFMGa1KvIkngUZ/KkwiOUE1ppQ0hrGGruRM5wKAtWX368HF9e+wKsHr+c+/0Xb
+/SS8tPCyJ7Uaun8LFqMrypuNbMi/JVbbxQ8k+sZk+9vCxBDwsi3hf0Vilk2ciFJuLEucDo/o
+OWMsc2XQmJ3OjM1fNNM66ycEqJkB9mY5sN1bIWK/FVr4rRA5yHlvC+qr/FZoaeW3gkp7p40t
+qmIKsQRIh1gQER6itpHDbIT2ajsbiR5hI+1k5Chj2h0jx1xGOjaxnTb2OGM7CXuCVTsd7EnX
+YJdrkPrfAAAA//8DACz8RvWIDQAA</item>
 		<item item-id="48">iVBORw0KGgoAAAANSUhEUgAAALMAAAFnCAYAAADtzHh+AAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABu6SURBVHhe7Z3Bdes4DEVTVRapJqu0
 km36yD5lpIHfxHTgEUhKAiGAoEQ6Fq13z8GZsUVS/NIVrNig/XID4El4aplfXl4QA0UrTy/z
